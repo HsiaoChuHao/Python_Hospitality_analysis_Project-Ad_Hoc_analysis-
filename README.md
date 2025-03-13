@@ -10,4 +10,5 @@ This dataset pertains to the Atliq Hotel Group (a fictional company), a hotel ch
 - dim_rooms
   
 This project utilizes Python (Numpy, Pandas, Matplotlib, Seaborn) to perform ad-hoc analysis, such as analyzing occupancy rates across cities, room types, and weekdays vs. weekends, as well as revenue analysis.
-Please check jupyter notebook file:
+
+Please check jupyter notebook file: [link](https://github.com/HsiaoChuHao/Python_Hospitality_analysis_Project-Ad_Hoc_analysis-/blob/main/Hospitality_analysis_Project%20(Ad_Hoc_analysis).ipynb)
